@@ -6,3 +6,18 @@
 
 # Git Repository
 - Where all our snapshots are stored
+
+# Adding multiple files of a certain type
+
+# Adding all files in a directory (including hidden)
+
+# Removing Files
+
+# Ignoring Files
+
+# Git Branches
+- Listing all branches
+- Adding a branches
+- Changing branches
+- Merging a branches
+- Removing a branch
